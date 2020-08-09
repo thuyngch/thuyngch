@@ -7,9 +7,10 @@
 
 ### Welcome to ThuyNg's GitHub 👋
 
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-MatLab-e5cd0c?style=flat-square&logo=MatLab&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
 
 Please visit my [thuyngch.github.io](https://thuyngch.github.io/) for more information 😄
 
