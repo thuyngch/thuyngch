@@ -1,4 +1,16 @@
-### Hi there 👋
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thuyngch&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
+
+
+
+### Welcome to ThuyNg's GitHub 👋
+
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-MatLab-e5cd0c?style=flat-square&logo=MatLab&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+
 
 <!--
 **thuyngch/thuyngch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
